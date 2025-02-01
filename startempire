@@ -16,7 +16,8 @@
 
 my $EMPIREDIR = "/home/empowner/empire";
 my $SCREENCMD = "/usr/bin/screen";
-my $EMPIREEXE = "nohup /home/empowner/empire/sbin/emp_server\&";
+#my $EMPIREEXE = "nohup /home/empowner/empire/sbin/emp_server\&";
+my $EMPIREEXE = "/home/empowner/empire/sbin/emp_server";
 
 # No changes below here...
 
